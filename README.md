@@ -1,1 +1,1 @@
-# Simple-Calculator
+# GUI in Java
